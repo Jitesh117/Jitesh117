@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web applications and look forward to learn dart programming language
 - 📫 How to reach me :
--     Twitter:@Jitesh_117
+-     Twitter:[Jitesh_117](www.twitter.com/Jitesh_117)
 
 <!---
 Jitesh117/Jitesh117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
