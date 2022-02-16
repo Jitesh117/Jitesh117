@@ -9,7 +9,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jitesh117&repo=Jitesh117.github.io)](https://github.com/Jitesh117/Jitesh117.github.io) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh117&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jitesh117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jitesh117&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jitesh117&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---
 Jitesh117/Jitesh117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
