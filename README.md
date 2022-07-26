@@ -29,12 +29,15 @@
  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
  <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
-  <img width="60px" src="./git-bash.svg"/>
-    <img width="60px" src="./git-icon.svg"/>
-   <img width="60px" src="./c.svg"/>
- <img width="60px" src="./cpp.svg"/>
- <img width="80px" src="./java.svg"/>
+  <img width="60px" src="./icons/git-bash.svg"/>
+    <img width="60px" src="./icons/git-icon.svg"/>
+   <img width="60px" src="./icons/c.svg"/>
+ <img width="60px" src="./icons/cpp.svg"/>
+ <img width="80px" src="./icons/java.svg"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
+ <img width="45px" src="./icons/flutter.svg"/>
+ <img width="60px" src="./icons/dart.png"/>
+
  </p>
 </p>
 
@@ -52,3 +55,4 @@
 Jitesh117/Jitesh117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://user-images.githubusercontent.com/77315098/161433737-68fef998-8908-435d-aa9f-371b0a9facad.png
