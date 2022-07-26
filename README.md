@@ -55,4 +55,3 @@
 Jitesh117/Jitesh117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://user-images.githubusercontent.com/77315098/161433737-68fef998-8908-435d-aa9f-371b0a9facad.png
