@@ -46,7 +46,7 @@
 <p align="center">
 <a href="https://twitter.com/Jitesh_117" target="blank"><img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalj10483982" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/jitesh-kumar-sahoo-307a59166/" target="blank"><img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VISHAL JOSHI" height="30" width="40" /></a>
-<a href="https://www.frontendmentor.io/profile/Jitesh117" target="blank"><img width="40px" height="40px" align="center" src="./frontendmentor.png" alt="knockcat" height="30" width="40" /></a>
+<a href="https://www.frontendmentor.io/profile/Jitesh117" target="blank"><img width="40px" height="40px" align="center" src="./icons/frontendmentor.png" alt="knockcat" height="30" width="40" /></a>
 <a href="https://leetcode.com/Jitesh117/" target="blank"><img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knockcat" height="30" width="40" /></a>
 </p>
 <!-- <a href="https://www.hackerearth.com/@knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knockcat" height="30" width="40" /></a> -->
