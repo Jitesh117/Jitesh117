@@ -9,7 +9,7 @@
    
 <!--![Profile visits](https://komarev.com/ghpvc/?username=Jitesh117) -->
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitesh117&show_icons=true&theme=gotham&count_private=true "> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitesh117&show_icons=true&theme=gotham&count_private=true"> 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh117&theme=gotham" />
 </p>
 <p align="left">
