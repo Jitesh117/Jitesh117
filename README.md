@@ -30,15 +30,15 @@
  <br>
  
  <p align = "center">
- <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+ <img width="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
+ <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
  <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
-  <img width="60px" src="./icons/git-bash.svg"/>
-    <img width="60px" src="./icons/git-icon.svg"/>
+  <img width="55px" src="./icons/git-bash.svg"/>
+    <img width="55px" src="./icons/git-icon.svg"/>
    <img width="60px" src="./icons/c.svg"/>
- <img width="60px" src="./icons/cpp.svg"/>
+ <img width="53px" src="./icons/cpp.svg"/>
  <img width="80px" src="./icons/java.svg"/>
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
+ <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
  <img width="45px" src="./icons/flutter.svg"/>
  <img width="60px" src="./icons/dart.png"/>
 
