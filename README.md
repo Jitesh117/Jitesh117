@@ -18,10 +18,10 @@
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh117&layout=compact&theme=gotham&custom_title=Languages" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
- <br>
+ <!-- <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=jitesh117&theme=gotham">
  <br>
- <br>
+ <br> -->
  <img width="600px"src="https://holopin.io/api/user/board?user=jitesh117">
 
 <p align="center">
