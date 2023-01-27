@@ -1,5 +1,5 @@
 # Hi, I'm Jitesh👋🏾
-- 👀 I’m interested in Frontend web development
+- 👀 I’m interested in Frontend web/mobile development
 - 🌱 I’m currently learning Data structures and algorithms and Android development
 - 💞️ I’m looking to collaborate on Web applications and look forward to learn JS in depth
 - 📫 How to reach me :
