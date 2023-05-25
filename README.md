@@ -7,21 +7,14 @@
 
    
    
-<!--![Profile visits](https://komarev.com/ghpvc/?username=Jitesh117) -->
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitesh117&show_icons=true&theme=gotham&count_private=true"> 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh117&theme=gotham" />
 </p>
 <p align="left">
    <p align="center">
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh117&layout=compact&theme=gotham&custom_title=Languages" /> 
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
- <!-- <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=jitesh117&theme=gotham">
- <br>
- <br> -->
  <img width="600px"src="https://holopin.io/api/user/board?user=jitesh117">
 
 <p align="center">
@@ -30,17 +23,17 @@
  <br>
  
  <p align = "center">
+ <img width="45px" src="./icons/flutter.svg"/>
+ <img width="60px" src="./icons/dart.png"/>
  <img width="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
- <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
  <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
   <img width="55px" src="./icons/git-bash.svg"/>
     <img width="55px" src="./icons/git-icon.svg"/>
    <img width="60px" src="./icons/c.svg"/>
  <img width="53px" src="./icons/cpp.svg"/>
  <img width="80px" src="./icons/java.svg"/>
+ <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
  <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
- <img width="45px" src="./icons/flutter.svg"/>
- <img width="60px" src="./icons/dart.png"/>
 
  </p>
 </p>
