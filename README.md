@@ -1,5 +1,5 @@
 # Hi, I'm Jitesh👋
-- 👀 I’m interested in Frontend mobile/web development
+- 👀 I’m interested in Flutter App development
 - 🌱 I’m currently learning Data structures and algorithms and Flutter development
 - 💞️ I’m looking to collaborate on Flutter applications and look forward to learn Dart in depth
 - 📫 How to reach me :
