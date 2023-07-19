@@ -1,4 +1,4 @@
-# Hi, I'm Jitesh👋🏾
+# Hi, I'm Jitesh👋
 - 👀 I’m interested in Frontend mobile/web development
 - 🌱 I’m currently learning Data structures and algorithms and Flutter development
 - 💞️ I’m looking to collaborate on Flutter applications and look forward to learn Dart in depth
