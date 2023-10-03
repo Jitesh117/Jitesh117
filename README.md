@@ -24,10 +24,12 @@
  <br>
  
  <p align = "center">
+ <img width="55px" src="./icons/python.svg"/>
+ <img height="55px" src="./icons/pandas.png"/>
  <img width="45px" src="./icons/flutter.svg"/>
  <img width="60px" src="./icons/dart.png"/>
  <img width="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
- <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
+ <img width="45px" src="./icons/html.svg"/>
   <img width="55px" src="./icons/git-bash.svg"/>
     <img width="55px" src="./icons/git-icon.svg"/>
    <img width="60px" src="./icons/c.svg"/>
