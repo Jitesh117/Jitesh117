@@ -1,57 +1,17 @@
 # Hi, I'm Jitesh👋
-- 👀 I’m interested in Flutter App development
-- 🌱 I’m currently learning Data structures and algorithms and Flutter development
-- 💞️ I’m looking to collaborate on Flutter applications and look forward to learn Dart in depth
-- 📫 How to reach me :
-   -Twitter:  [Jitesh_117](https://twitter.com/Jitesh_117)
 
-   
-   
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitesh117&show_icons=true&theme=gotham&count_private=true"> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh117&theme=gotham" />
-</p>
-<p align="left">
-   <p align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh117&layout=compact&theme=gotham&custom_title=Languages" /> 
- <br>
- <br>
- <img width="600px"src="https://holopin.io/api/user/board?user=jitesh117">
+- 👀 I’m interested in Data Science and Machine learning
+- 🌱 I’m currently learning Machine Learning algorithms and participating in Kaggle Competitions. 
+- 📑 Read my Blog: [Blog link](https://jitesh117.github.io/)
 
+<p align="center"><b>Connect with me:</b></p>
+<p align="center"> <a href="https://www.kaggle.com/jiteshkumarsahoo" target="_blank"> <img src="icons/kaggle.svg" alt="Kaggle" width="40" height="40" /> </a> <a href="https://www.linkedin.com/in/jitesh117" target="_blank"> <img src="icons/linkedin.svg" alt="LinkedIn" width="40" height="40" /> </a> <a href="https://twitter.com/Jitesh_117" target="_blank"> <img src="icons/twitter.svg" alt="Twitter" width="40" height="40" /> </a> </p>
+   
 <p align="center">
  <b>Tools and Technologies</b>
  <br>
  <br>
- 
- <p align = "center">
- <img width="55px" src="./icons/python.svg"/>
- <img height="55px" src="./icons/pandas.png"/>
- <img width="45px" src="./icons/flutter.svg"/>
- <img width="60px" src="./icons/dart.png"/>
- <img width="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
- <img width="45px" src="./icons/html.svg"/>
-  <img width="55px" src="./icons/git-bash.svg"/>
-    <img width="55px" src="./icons/git-icon.svg"/>
-   <img width="60px" src="./icons/c.svg"/>
- <img width="53px" src="./icons/cpp.svg"/>
- <img width="80px" src="./icons/java.svg"/>
- <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
- <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
-
- </p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,flutter,dart,figma,firebase,md,python,sklearn,linux,ubuntu,bash,c,cpp,vscode,vim,neovim,flask,git,github,&perline=7" />
+    </a>
 </p>
-
- <h3 align="Center"><b>Connect with me:</b></h3>
-</p>
-<p align="center">
-<a href="https://twitter.com/Jitesh_117" target="blank"><img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalj10483982" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jitesh-kumar-sahoo-307a59166/" target="blank"><img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VISHAL JOSHI" height="30" width="40" /></a>
-<a href="https://www.frontendmentor.io/profile/Jitesh117" target="blank"><img width="40px" height="40px" align="center" src="./icons/frontendmentor.png" alt="knockcat" height="30" width="40" /></a>
-<a href="https://leetcode.com/Jitesh117/" target="blank"><img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knockcat" height="30" width="40" /></a>
-</p>
-<!-- <a href="https://www.hackerearth.com/@knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knockcat" height="30" width="40" /></a> -->
-</p>
-<!---
-Jitesh117/Jitesh117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
