@@ -9,9 +9,7 @@
 <a href="https://www.kaggle.com/jiteshkumarsahoo" target="_blank"> <img src="icons/kaggle.svg" alt="Kaggle" width="40" height="40" /> </a> 
 <a href="https://www.linkedin.com/in/jitesh117" target="_blank"> <img src="icons/linkedin.svg" alt="LinkedIn" width="40" height="40" /> </a> 
 <a href="https://twitter.com/Jitesh_117" target="_blank"> <img src="icons/twitter.svg" alt="Twitter" width="40" height="40" /> </a> 
-<a href = "https://monkeytype.com/profile/jitesh117" target = "_blank">
-<img src = "https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/paper.svg" width="42" height = "40>
-</a>
+<a href="https://monkeytype.com/profile/jitesh117" target="_blank"> <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/paper.svg" alt="Twitter" width="40" height="40" /> </a> 
 </p>
 
 <p align="center">
