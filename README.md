@@ -22,6 +22,7 @@ I build systems, explore ideas deeply, and write clean, purposeful software. Mos
 
 | Project | Stack | |
 |---|---|---|
+| [Vim Royale](https://vimroyale.com/) | Go, React, TypeScript, PostgreSQL, Docker | Vim Based realtime PvP game |
 | [Brainrot Language Server](https://github.com/Jitesh117/brainrot-lsp) | Go | Full LSP implementation |
 | [Interpreter](https://github.com/Jitesh117/monkeylang_interpreter_go) | Go | Tree-walking interpreter built from scratch |
 | [MapReduce](https://github.com/Jitesh117/mapReduceGo) | Go | Distributed MapReduce implementation |
