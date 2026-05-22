@@ -36,7 +36,7 @@ Detailed write-ups for most of these live on my [blog](https://jitesh117.github.
 ## A Few Things I'm Proud Of
 
 - Featured in **[Golang Weekly #531](https://golangweekly.com/issues/531)**
-- **30,000+ readers** across **100+ countries** on my blog
+- **40,000+ readers** across **100+ countries** on my blog
 - Datasets and Notebooks **Expert** on [Kaggle](https://www.kaggle.com/jiteshkumarsahoo)
 
 <br/>
